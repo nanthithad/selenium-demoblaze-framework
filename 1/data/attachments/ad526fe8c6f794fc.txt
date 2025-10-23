@@ -1,0 +1,3 @@
+2025-10-23 13:34:39 - TestDropdowns - INFO - setup_and_teardown - ==================================================
+2025-10-23 13:34:39 - TestDropdowns - INFO - setup_and_teardown - Starting new LOCAL Dropdown Test
+2025-10-23 13:34:39 - TestDropdowns - INFO - setup_and_teardown - Local test server running at: http://localhost:55477/dropdown_test.html

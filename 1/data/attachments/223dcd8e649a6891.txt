@@ -1,0 +1,11 @@
+2025-10-23 13:32:13 - TestDemoBlazeE2E_chrome - INFO - setup_and_teardown - ==================================================
+2025-10-23 13:32:13 - TestDemoBlazeE2E_chrome - INFO - setup_and_teardown - Starting new test on CHROME
+2025-10-23 13:32:14 - TestDemoBlazeE2E_chrome - INFO - setup_and_teardown - Navigated to DemoBlaze website on chrome
+2025-10-23 13:32:14 - TestDemoBlazeE2E_chrome - INFO - test_01_browser_windows_and_tabs - Testing browser windows and tabs on chrome
+2025-10-23 13:32:14 - TestDemoBlazeE2E_chrome - INFO - test_01_browser_windows_and_tabs - Main window handle: 6D3847222460E810BADD155DBD174F40
+2025-10-23 13:32:16 - TestDemoBlazeE2E_chrome - INFO - test_01_browser_windows_and_tabs - Total windows: 2
+2025-10-23 13:32:16 - TestDemoBlazeE2E_chrome - INFO - switch_to_window - Switched to window: 4D8BB54F8663E363CC8B5A739E135A7D
+2025-10-23 13:32:16 - TestDemoBlazeE2E_chrome - INFO - test_01_browser_windows_and_tabs - Switched to window: 4D8BB54F8663E363CC8B5A739E135A7D
+2025-10-23 13:32:16 - TestDemoBlazeE2E_chrome - INFO - switch_to_window - Switched to window: 6D3847222460E810BADD155DBD174F40
+2025-10-23 13:32:16 - TestDemoBlazeE2E_chrome - INFO - setup_and_teardown - Test completed on chrome
+2025-10-23 13:32:16 - TestDemoBlazeE2E_chrome - INFO - setup_and_teardown - ==================================================

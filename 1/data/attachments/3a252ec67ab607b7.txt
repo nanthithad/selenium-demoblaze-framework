@@ -1,0 +1,70 @@
+2025-10-23 13:34:49 - TestDemoBlazeE2E_edge - INFO - setup_and_teardown - ==================================================
+2025-10-23 13:34:49 - TestDemoBlazeE2E_edge - INFO - setup_and_teardown - Starting new test on EDGE
+2025-10-23 13:34:50 - TestDemoBlazeE2E_edge - INFO - setup_and_teardown - Navigated to DemoBlaze website on edge
+2025-10-23 13:34:50 - TestDemoBlazeE2E_edge - INFO - test_33_radio_button_demo - Testing radio button selection
+2025-10-23 13:34:50 - TestDemoBlazeE2E_edge - WARNING - test_33_radio_button_demo - Selenium Easy failed: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+#0 0x5607bdf3acce <unknown>
+#1 0x5607bd9c4656 <unknown>
+#2 0x5607bd9c1a09 <unknown>
+#3 0x5607bd9ae1a9 <unknown>
+#4 0x5607bd9afe05 <unknown>
+#5 0x5607bd9ae4e3 <unknown>
+#6 0x5607bd9adcd2 <unknown>
+#7 0x5607bd9adc02 <unknown>
+#8 0x5607bd9ac05c <unknown>
+#9 0x5607bd9ac357 <unknown>
+#10 0x5607bd9c7e63 <unknown>
+#11 0x5607bda5b75e <unknown>
+#12 0x5607bda3a802 <unknown>
+#13 0x5607bda5b00c <unknown>
+#14 0x5607bda3a5d3 <unknown>
+#15 0x5607bda08228 <unknown>
+#16 0x5607bda08e11 <unknown>
+#17 0x5607bdf0a16e <unknown>
+#18 0x5607bdf0d2cb <unknown>
+#19 0x5607bdf0cd2b <unknown>
+#20 0x5607bdf0d785 <unknown>
+#21 0x5607bdef74e3 <unknown>
+#22 0x5607bdf0db52 <unknown>
+#23 0x5607bdee1242 <unknown>
+#24 0x5607bdf29078 <unknown>
+#25 0x5607bdf2929c <unknown>
+#26 0x5607bdf39b59 <unknown>
+#27 0x7f229389caa4 <unknown>
+#28 0x7f2293929c6c <unknown>
+
+2025-10-23 13:35:49 - TestDemoBlazeE2E_edge - WARNING - test_33_radio_button_demo - Demoqa failed: Message: timeout: Timed out receiving message from renderer: 58.381
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+#0 0x5607bdf3acce <unknown>
+#1 0x5607bd9c4656 <unknown>
+#2 0x5607bd9ade55 <unknown>
+#3 0x5607bd9adc02 <unknown>
+#4 0x5607bd9ac05c <unknown>
+#5 0x5607bd9ac4c4 <unknown>
+#6 0x5607bd9c0457 <unknown>
+#7 0x5607bd9d249c <unknown>
+#8 0x5607bd9d86eb <unknown>
+#9 0x5607bd9acae2 <unknown>
+#10 0x5607bd9d2124 <unknown>
+#11 0x5607bda5b3dd <unknown>
+#12 0x5607bda3a5d3 <unknown>
+#13 0x5607bda08228 <unknown>
+#14 0x5607bda08e11 <unknown>
+#15 0x5607bdf0a16e <unknown>
+#16 0x5607bdf0d2cb <unknown>
+#17 0x5607bdf0cd2b <unknown>
+#18 0x5607bdf0d785 <unknown>
+#19 0x5607bdef74e3 <unknown>
+#20 0x5607bdf0db52 <unknown>
+#21 0x5607bdee1242 <unknown>
+#22 0x5607bdf29078 <unknown>
+#23 0x5607bdf2929c <unknown>
+#24 0x5607bdf39b59 <unknown>
+#25 0x7f229389caa4 <unknown>
+#26 0x7f2293929c6c <unknown>
+
+2025-10-23 13:35:49 - TestDemoBlazeE2E_edge - INFO - setup_and_teardown - Test completed on edge
+2025-10-23 13:35:49 - TestDemoBlazeE2E_edge - INFO - setup_and_teardown - ==================================================

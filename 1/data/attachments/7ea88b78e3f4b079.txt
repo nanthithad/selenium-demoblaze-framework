@@ -1,0 +1,3 @@
+2025-10-23 13:33:22 - TestCheckboxes - INFO - setup_and_teardown - ==================================================
+2025-10-23 13:33:22 - TestCheckboxes - INFO - setup_and_teardown - Starting new LOCAL Checkbox Test
+2025-10-23 13:33:22 - TestCheckboxes - INFO - setup_and_teardown - Local test server running at: http://localhost:34231/checkbox_test.html
