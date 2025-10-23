@@ -36,3 +36,6 @@ selenium_demoblaze_framework/tests/demo.py
 selenium_demoblaze_framework/tests/demo2.py
 selenium_demoblaze_framework/tests/demo3.py
 selenium_demoblaze_framework/tests/demo4.py
+selenium_demoblaze_framework/tests/conftest(working).py
+selenium_demoblaze_framework/tests/test_demoblaze_e2e(working).py
+selenium_demoblaze_framework/utilities/utility_methods(working).py
